@@ -1,3 +1,3 @@
 # Ayushman
-This is me Frist Git Repository
+This is me First Git Repository
 Author --Ayushman Giri
