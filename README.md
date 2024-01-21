@@ -1,3 +1,3 @@
 # Ayushman
-This is me First Git Repository
+This is My First Git Repository
 Author --Ayushman Giri
